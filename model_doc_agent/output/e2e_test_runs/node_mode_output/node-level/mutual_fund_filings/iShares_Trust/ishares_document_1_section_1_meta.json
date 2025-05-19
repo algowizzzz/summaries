@@ -1,0 +1,32 @@
+{
+  "summary_id": "7543c1b5-d6e1-4272-914e-d54464fa7fe0",
+  "parent_id": null,
+  "file_id": "TestData/mutual_fund_filings/iShares_Trust/ishares_document_1.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "497",
+  "summary_type": "node",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:31:18.664668+00:00",
+  "word_count": 140,
+  "character_count": 805,
+  "key_terms": [
+    "management",
+    "fee",
+    "net",
+    "per",
+    "annum",
+    "assets",
+    "billion",
+    "section",
+    "changes",
+    "funds"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown",
+  "section_id": "section_1",
+  "section_title": "document_content"
+}

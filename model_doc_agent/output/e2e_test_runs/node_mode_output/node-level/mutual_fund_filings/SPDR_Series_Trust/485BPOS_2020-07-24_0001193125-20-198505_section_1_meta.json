@@ -1,0 +1,32 @@
+{
+  "summary_id": "5b29c755-da60-4a54-870c-b203d82270bf",
+  "parent_id": null,
+  "file_id": "TestData/mutual_fund_filings/SPDR_Series_Trust/485BPOS_2020-07-24_0001193125-20-198505.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "485BPOS",
+  "summary_type": "node",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:31:09.540856+00:00",
+  "word_count": 29,
+  "character_count": 208,
+  "key_terms": [
+    "error",
+    "type",
+    "failed",
+    "generate",
+    "summary",
+    "after",
+    "attempts",
+    "last",
+    "code",
+    "400"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown",
+  "section_id": "section_1",
+  "section_title": "document_content"
+}

@@ -1,0 +1,32 @@
+{
+  "summary_id": "80fc9650-f469-47ed-9776-27c775b9320e",
+  "parent_id": null,
+  "file_id": "TestData/mutual_fund_filings/SPDR_Series_Trust/485BPOS_2020-08-06_0001193125-20-211733.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "485BPOS",
+  "summary_type": "node",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:31:01.576398+00:00",
+  "word_count": 146,
+  "character_count": 952,
+  "key_terms": [
+    "section",
+    "filing",
+    "registration",
+    "statement",
+    "appears",
+    "introductory",
+    "boilerplate",
+    "form",
+    "includes",
+    "details"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown",
+  "section_id": "section_1",
+  "section_title": "document_content"
+}

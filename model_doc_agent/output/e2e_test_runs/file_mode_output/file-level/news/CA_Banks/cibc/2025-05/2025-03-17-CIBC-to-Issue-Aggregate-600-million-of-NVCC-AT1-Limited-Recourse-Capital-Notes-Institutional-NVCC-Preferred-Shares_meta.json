@@ -1,0 +1,30 @@
+{
+  "summary_id": "28a5d34c-0c5b-402b-ba44-c53361bd2a2f",
+  "parent_id": null,
+  "file_id": "TestData/news/CA_Banks/cibc/2025-05/article_cibc_1.json",
+  "category": "News",
+  "domain": "Financial Information",
+  "doc_type": "news",
+  "summary_type": "file",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:29:28.786076+00:00",
+  "word_count": 97,
+  "character_count": 629,
+  "key_terms": [
+    "million",
+    "capital",
+    "cibc",
+    "series",
+    "nvcc",
+    "offerings",
+    "outstanding",
+    "announced",
+    "domestic",
+    "public"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown"
+}

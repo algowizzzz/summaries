@@ -1,0 +1,30 @@
+{
+  "summary_id": "aeca3d7b-60df-4016-84a3-718fea70fb6d",
+  "parent_id": null,
+  "file_id": "TestData/Banks/Royal_Bank_of_Canada/rbc_document_1.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "13F-HR",
+  "summary_type": "file",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:29:34.956227+00:00",
+  "word_count": 223,
+  "character_count": 1559,
+  "key_terms": [
+    "13f",
+    "filing",
+    "financial",
+    "investment",
+    "information",
+    "royal",
+    "bank",
+    "canada",
+    "equity",
+    "managers"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown"
+}

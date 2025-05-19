@@ -1,0 +1,30 @@
+{
+  "summary_id": "9fc4bb71-b85b-48af-84ba-41b327693db4",
+  "parent_id": null,
+  "file_id": "TestData/news/reg/cfpb/2025-01/article_cfpb_1.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "Press Release",
+  "summary_type": "file",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:29:20.595577+00:00",
+  "word_count": 73,
+  "character_count": 489,
+  "key_terms": [
+    "cfpb",
+    "address",
+    "illegal",
+    "practices",
+    "national",
+    "collegiate",
+    "student",
+    "loan",
+    "trusts",
+    "article"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown"
+}

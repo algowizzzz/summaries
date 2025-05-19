@@ -1,0 +1,32 @@
+{
+  "summary_id": "3cf28eec-6fb7-43b9-b45f-3a0eb1077e1a",
+  "parent_id": null,
+  "file_id": "TestData/Banks/Bank_of_America/boa_document_1.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "13F-HR",
+  "summary_type": "node",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:31:20.109436+00:00",
+  "word_count": 99,
+  "character_count": 641,
+  "key_terms": [
+    "section",
+    "filing",
+    "standard",
+    "information",
+    "13f",
+    "introductory",
+    "boilerplate",
+    "part",
+    "contains",
+    "language"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown",
+  "section_id": "section_1",
+  "section_title": "document_content"
+}

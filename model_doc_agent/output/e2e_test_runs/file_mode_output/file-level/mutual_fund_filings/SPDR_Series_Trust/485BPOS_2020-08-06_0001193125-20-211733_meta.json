@@ -1,0 +1,30 @@
+{
+  "summary_id": "3e6bbbcd-d9f2-45c9-9f3d-b3d4bc72f6fb",
+  "parent_id": null,
+  "file_id": "TestData/mutual_fund_filings/SPDR_Series_Trust/485BPOS_2020-08-06_0001193125-20-211733.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "485BPOS",
+  "summary_type": "file",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:29:01.665163+00:00",
+  "word_count": 178,
+  "character_count": 1226,
+  "key_terms": [
+    "filing",
+    "485bpos",
+    "trust",
+    "registration",
+    "spdr",
+    "series",
+    "investment",
+    "financial",
+    "information",
+    "key"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown"
+}

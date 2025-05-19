@@ -1,0 +1,30 @@
+{
+  "summary_id": "375cbaa7-7473-468f-bb7d-c25e221b54c3",
+  "parent_id": null,
+  "file_id": "TestData/Banks/Bank_of_America/boa_document_1.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "13F-HR",
+  "summary_type": "file",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:29:31.961699+00:00",
+  "word_count": 198,
+  "character_count": 1428,
+  "key_terms": [
+    "13f",
+    "filing",
+    "financial",
+    "information",
+    "bank",
+    "america",
+    "institutional",
+    "investment",
+    "forward",
+    "looking"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown"
+}

@@ -1,0 +1,30 @@
+{
+  "summary_id": "d9599496-9384-4772-bd63-bb48f23e631f",
+  "parent_id": null,
+  "file_id": "TestData/news/usbank/news/usbank/2025-01/article_usbank_1.json",
+  "category": "News",
+  "domain": "Financial Information",
+  "doc_type": "news",
+  "summary_type": "file",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:20:32.562175+00:00",
+  "word_count": 29,
+  "character_count": 208,
+  "key_terms": [
+    "error",
+    "type",
+    "failed",
+    "generate",
+    "summary",
+    "after",
+    "attempts",
+    "last",
+    "code",
+    "400"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown"
+}

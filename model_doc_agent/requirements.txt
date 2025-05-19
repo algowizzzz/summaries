@@ -1,0 +1,9 @@
+openai
+tiktoken
+PyYAML
+pytest
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+langchain-anthropic 

@@ -1,0 +1,30 @@
+{
+  "summary_id": "9f997b43-f89f-491b-aae0-7a98db986410",
+  "parent_id": null,
+  "file_id": "TestData/mutual_fund_filings/iShares_Trust/ishares_document_1.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "497",
+  "summary_type": "file",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:29:19.468793+00:00",
+  "word_count": 200,
+  "character_count": 1297,
+  "key_terms": [
+    "filing",
+    "fee",
+    "changes",
+    "management",
+    "funds",
+    "financial",
+    "497",
+    "key",
+    "information",
+    "efg"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown"
+}

@@ -1,0 +1,3 @@
+This section is an introductory and boilerplate part of the 13F-HR filing. It contains standard language disclaiming that the Securities and Exchange Commission has not reviewed or verified the accuracy and completeness of the information provided in the filing. The section also includes the standard cover page for a Form 13F filing, which states that the person signing the report is authorized to submit it and that all information contained within is true, correct, and complete. This is a standard legal and administrative section that does not contain any specific financial performance data or risk information.
+
+End section summary.

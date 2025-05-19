@@ -1,0 +1,53 @@
+{
+  "40-F": {
+    "file": "templates/sec_file_summary.md",
+    "node": "templates/sec_node_summary.md",
+    "master": "templates/sec_master_summary.md",
+    "cross": "templates/sec_cross_sectional_summary.md"
+  },
+  "6-K": {
+    "file": "templates/sec_file_summary.md",
+    "node": "templates/sec_node_summary.md",
+    "master": "templates/sec_master_summary.md",
+    "cross": "templates/sec_cross_sectional_summary.md"
+  },
+  "20-F": {
+    "file": "templates/sec_file_summary.md",
+    "node": "templates/sec_node_summary.md",
+    "master": "templates/sec_master_summary.md",
+    "cross": "templates/sec_cross_sectional_summary.md"
+  },
+  "10-K": {
+    "file": "templates/sec_file_summary.md",
+    "node": "templates/sec_node_summary.md",
+    "master": "templates/sec_master_summary.md",
+    "cross": "templates/sec_cross_sectional_summary.md"
+  },
+  "10-Q": {
+    "file": "templates/sec_file_summary.md",
+    "node": "templates/sec_node_summary.md",
+    "master": "templates/sec_master_summary.md",
+    "cross": "templates/sec_cross_sectional_summary.md"
+  },
+  "8-K": {
+    "file": "templates/sec_file_summary.md",
+    "node": "templates/sec_node_summary.md",
+    "master": "templates/sec_master_summary.md",
+    "cross": "templates/sec_cross_sectional_summary.md"
+  },
+  "default": {
+    "file": "templates/sec_file_summary.md",
+    "node": "templates/sec_node_summary.md",
+    "master": "templates/sec_master_summary.md",
+    "cross": "templates/sec_cross_sectional_summary.md",
+    "sub_folder_content": "templates/sub_folder_content_summary.md",
+    "sub_folder_cross": "templates/sub_folder_cross_sectional.md"
+  },
+  "news": {
+    "file": "templates/news_summary.md",
+    "node": "templates/news_summary.md",
+    "master": "templates/news_summary.md",
+    "sub_folder_content": "templates/sub_folder_content_summary.md",
+    "sub_folder_cross": "templates/sub_folder_cross_sectional.md"
+  }
+} 

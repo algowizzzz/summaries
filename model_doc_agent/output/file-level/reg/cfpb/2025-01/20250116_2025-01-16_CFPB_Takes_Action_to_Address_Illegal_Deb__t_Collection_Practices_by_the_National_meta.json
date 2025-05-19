@@ -1,0 +1,30 @@
+{
+  "summary_id": "1544af02-e4ce-403f-be22-cdfc111ce435",
+  "parent_id": null,
+  "file_id": "TestData/news/reg/cfpb/2025-01/article_cfpb_1.json",
+  "category": "SEC Filings",
+  "domain": "Financial Information",
+  "doc_type": "Press Release",
+  "summary_type": "file",
+  "relationship_ids": [],
+  "generated_timestamp": "2025-05-19T20:20:16.510881+00:00",
+  "word_count": 71,
+  "character_count": 491,
+  "key_terms": [
+    "cfpb",
+    "address",
+    "debt",
+    "collection",
+    "practices",
+    "national",
+    "collegiate",
+    "student",
+    "loan",
+    "trusts"
+  ],
+  "entities_mentioned": [
+    "entity_extraction_placeholder"
+  ],
+  "llm_model_used": "claude-3-haiku-20240307",
+  "prompt_template_id": "unknown"
+}

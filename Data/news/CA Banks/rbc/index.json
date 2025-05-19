@@ -1,0 +1,32 @@
+[
+  {
+    "month": "2025-01",
+    "count": 33,
+    "folder": "news/rbc/2025-01",
+    "id": "87f09a8a-bab2-4b35-bb83-750323be8883"
+  },
+  {
+    "month": "2025-02",
+    "count": 24,
+    "folder": "news/rbc/2025-02",
+    "id": "149214b5-355e-4b9a-882f-1c13cf1632e5"
+  },
+  {
+    "month": "2025-03",
+    "count": 15,
+    "folder": "news/rbc/2025-03",
+    "id": "db8b70a7-69ff-47c6-a92b-e18e92b146d0"
+  },
+  {
+    "month": "2025-04",
+    "count": 6,
+    "folder": "news/rbc/2025-04",
+    "id": "5afbd938-6d6a-4b9b-8b4e-a53b9b54a180"
+  },
+  {
+    "month": "2025-05",
+    "count": 1,
+    "folder": "news/rbc/2025-05",
+    "id": "267a46e5-323b-46a6-9549-216bdfc29cb7"
+  }
+]
