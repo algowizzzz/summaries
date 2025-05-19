@@ -9,9 +9,9 @@ def main():
         prog="summarizer",
         description="Hierarchical SEC Filing Summarization Agent"
     )
-    parser.add_argument("--mode", choices=["file", "node", "master", "cross"], required=True,
-                        help="Summarization mode: file, node, master, or cross")
-    parser.add_argument("--input_dir", required=True, help="Directory containing input JSON filings or summaries (e.g., Data/Banks/Bank_of_Montreal or Data/news/reg/cfpb/2025-01)")
+    parser.add_argument("--mode", choices=["file", "node", "master", "cross", "sub_folder_content", "sub_folder_cross_sectional"], required=True,
+                        help="Summarization mode: file, node, master, cross, sub_folder_content, or sub_folder_cross_sectional")
+    parser.add_argument("--input_path", required=True, help="Path to input JSON file, directory of filings, or a parent directory for sub-folder modes (e.g., Data/Banks/Bank_of_Montreal, Data/news/reg/cfpb/2025-01, or Data/Banks for sub-folder modes)")
     parser.add_argument("--output_dir", required=True, help="Directory to write output summaries and metadata")
     parser.add_argument("--prompt_set", default="sec_prompts_v1.json",
                         help="Path to prompt-set JSON file defining prompts for each mode (default: sec_prompts_v1.json in agent root)")
@@ -38,7 +38,7 @@ def main():
 
     # Run the orchestrator for the specified mode
     orchestrator.run_summarization(mode=args.mode,
-                                   input_dir=args.input_dir,
+                                   input_dir=args.input_path,
                                    output_dir=args.output_dir,
                                    max_words=args.max_words,
                                    cache_manager=cache_manager,
